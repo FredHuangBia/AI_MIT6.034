@@ -1,1 +1,3 @@
-# AI_MIT6.034
+# Artificial Intelligence
+
+My labs on AI class at MIT.
